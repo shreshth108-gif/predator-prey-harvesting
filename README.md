@@ -2,7 +2,7 @@
 
 An ODE model of predator and prey fish populations with harvesting of the predator, analysed for stability and optimised for long-run yield.
 
-**TU/e · Ordinary Differential Equations modelling project (2WA70) · Grade 9.0/10**
+**Ordinary Differential Equations modelling project · Grade 9.0/10**
 
 <!-- REPORT_LINK -->
 
